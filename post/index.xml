@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on QiPeng.sun的博客</title>
+    <link>http://sunqipeng-cn.github.io/post/</link>
+    <description>Recent content in Posts on QiPeng.sun的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 25 Oct 2015 08:36:54 -0700</lastBuildDate>
+    
+	<atom:link href="http://sunqipeng-cn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一篇</title>
+      <link>http://sunqipeng-cn.github.io/post/first/</link>
+      <pubDate>Sun, 25 Oct 2015 08:36:54 -0700</pubDate>
+      
+      <guid>http://sunqipeng-cn.github.io/post/first/</guid>
+      <description>新世界 新的篇章，以后用github.io记录学习经历了，加油。 不奢求突如其来的好运，只希望所有的付出和努力都能如愿以偿。</description>
+    </item>
+    
+  </channel>
+</rss>
